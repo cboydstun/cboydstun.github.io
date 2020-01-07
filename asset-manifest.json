@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cboydstun.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cboydstun.github.io/static/js/main.6a853d1a.chunk.js",
+    "main.js.map": "/cboydstun.github.io/static/js/main.6a853d1a.chunk.js.map",
+    "runtime-main.js": "/cboydstun.github.io/static/js/runtime-main.a00c7776.js",
+    "runtime-main.js.map": "/cboydstun.github.io/static/js/runtime-main.a00c7776.js.map",
+    "static/js/2.64be7450.chunk.js": "/cboydstun.github.io/static/js/2.64be7450.chunk.js",
+    "static/js/2.64be7450.chunk.js.map": "/cboydstun.github.io/static/js/2.64be7450.chunk.js.map",
+    "index.html": "/cboydstun.github.io/index.html",
+    "precache-manifest.24058460927b6eda85fed8ef201f0a3b.js": "/cboydstun.github.io/precache-manifest.24058460927b6eda85fed8ef201f0a3b.js",
+    "service-worker.js": "/cboydstun.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cboydstun.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.64be7450.chunk.js.LICENSE": "/cboydstun.github.io/static/js/2.64be7450.chunk.js.LICENSE",
+    "static/media/logo.svg": "/cboydstun.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a00c7776.js",
+    "static/js/2.64be7450.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6a853d1a.chunk.js"
+  ]
+}
