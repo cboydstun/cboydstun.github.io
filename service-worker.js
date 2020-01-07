@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cboydstun.github.io/precache-manifest.24058460927b6eda85fed8ef201f0a3b.js"
+  "/cboydstun.github.io/precache-manifest.f566a318ab53c03433e52ed9962a5b9d.js"
 );
 
 self.addEventListener('message', (event) => {
